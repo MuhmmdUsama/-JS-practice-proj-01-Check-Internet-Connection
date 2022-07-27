@@ -1,1 +1,3 @@
-# -JS-practice-proj-01-Check-Internet-Connection
+# Check Internet Connection Using Javascript
+
+##JS-practice-proj-01-
